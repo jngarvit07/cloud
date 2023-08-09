@@ -2,8 +2,8 @@ class even_odd
 {
     public static void main(String args[])
     {
-        int a=8;
-        if(a%2==0)
+    	int b=3;
+        if(b%2==0)
         {
             System.out.println("Even Number");
         }
